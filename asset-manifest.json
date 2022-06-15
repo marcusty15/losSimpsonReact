@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react.io/static/css/main.f6d39089.css",
+    "main.js": "/react.io/static/js/main.e3c25636.js",
+    "static/js/787.f6b89c4d.chunk.js": "/react.io/static/js/787.f6b89c4d.chunk.js",
+    "static/media/carrousel-3.jpg": "/react.io/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "index.html": "/react.io/index.html",
+    "main.f6d39089.css.map": "/react.io/static/css/main.f6d39089.css.map",
+    "main.e3c25636.js.map": "/react.io/static/js/main.e3c25636.js.map",
+    "787.f6b89c4d.chunk.js.map": "/react.io/static/js/787.f6b89c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d39089.css",
+    "static/js/main.e3c25636.js"
+  ]
+}
