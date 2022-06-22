@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react.io/static/css/main.f6d39089.css",
-    "main.js": "/react.io/static/js/main.e3c25636.js",
+    "main.css": "/react.io/static/css/main.efb72b4c.css",
+    "main.js": "/react.io/static/js/main.0c088c0b.js",
     "static/js/787.f6b89c4d.chunk.js": "/react.io/static/js/787.f6b89c4d.chunk.js",
     "static/media/carrousel-3.jpg": "/react.io/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "static/media/brujassimpson.jpg": "/react.io/static/media/brujassimpson.6ae612eb2cd6d5b639aa.jpg",
+    "static/media/educSimpson.jpg": "/react.io/static/media/educSimpson.b71914c44257270e30c3.jpg",
     "index.html": "/react.io/index.html",
-    "main.f6d39089.css.map": "/react.io/static/css/main.f6d39089.css.map",
-    "main.e3c25636.js.map": "/react.io/static/js/main.e3c25636.js.map",
+    "main.efb72b4c.css.map": "/react.io/static/css/main.efb72b4c.css.map",
+    "main.0c088c0b.js.map": "/react.io/static/js/main.0c088c0b.js.map",
     "787.f6b89c4d.chunk.js.map": "/react.io/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d39089.css",
-    "static/js/main.e3c25636.js"
+    "static/css/main.efb72b4c.css",
+    "static/js/main.0c088c0b.js"
   ]
 }
