@@ -1,20 +1,23 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Card from './componentes/Card'
-import Carrusel from './componentes/Carrusel';
-import Footer from './componentes/Footer';
-import Navbar from './componentes/Navbar';
 
+import Navbar from './componentes/Navbar';
+import { BrowserRouter as Router, Routes,Route } from 'react-router-dom'
+import Home from './pages/Home/Home';
+import Blog from './pages/blog/Blog';
+import Contact from './pages/contacto/Contact';
 
 function App() {
   return (
     
-    <div>
+    <Router>
       <Navbar />
-      <Carrusel/>
-      <Card/>
-      <Footer/>
-    </div>
+      <Routes>
+        <Route path='/' element={<Home />}></Route>
+        <Route path='/blog' element={<Blog/>}></Route> 
+        <Route path='/contact' element={<Contact/>}></Route> 
+      </Routes>
+    </Router>
   );
 }
 
