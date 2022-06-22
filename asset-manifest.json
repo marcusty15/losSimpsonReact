@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react.io/static/css/main.efb72b4c.css",
-    "main.js": "/react.io/static/js/main.0c088c0b.js",
-    "static/js/787.f6b89c4d.chunk.js": "/react.io/static/js/787.f6b89c4d.chunk.js",
-    "static/media/carrousel-3.jpg": "/react.io/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
-    "static/media/brujassimpson.jpg": "/react.io/static/media/brujassimpson.6ae612eb2cd6d5b639aa.jpg",
-    "static/media/educSimpson.jpg": "/react.io/static/media/educSimpson.b71914c44257270e30c3.jpg",
-    "index.html": "/react.io/index.html",
-    "main.efb72b4c.css.map": "/react.io/static/css/main.efb72b4c.css.map",
-    "main.0c088c0b.js.map": "/react.io/static/js/main.0c088c0b.js.map",
-    "787.f6b89c4d.chunk.js.map": "/react.io/static/js/787.f6b89c4d.chunk.js.map"
+    "main.css": "/losSimpsonReact/static/css/main.efb72b4c.css",
+    "main.js": "/losSimpsonReact/static/js/main.4128c7a6.js",
+    "static/js/787.f6b89c4d.chunk.js": "/losSimpsonReact/static/js/787.f6b89c4d.chunk.js",
+    "static/media/carrousel-3.jpg": "/losSimpsonReact/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "static/media/brujassimpson.jpg": "/losSimpsonReact/static/media/brujassimpson.6ae612eb2cd6d5b639aa.jpg",
+    "static/media/educSimpson.jpg": "/losSimpsonReact/static/media/educSimpson.b71914c44257270e30c3.jpg",
+    "index.html": "/losSimpsonReact/index.html",
+    "main.efb72b4c.css.map": "/losSimpsonReact/static/css/main.efb72b4c.css.map",
+    "main.4128c7a6.js.map": "/losSimpsonReact/static/js/main.4128c7a6.js.map",
+    "787.f6b89c4d.chunk.js.map": "/losSimpsonReact/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efb72b4c.css",
-    "static/js/main.0c088c0b.js"
+    "static/js/main.4128c7a6.js"
   ]
 }
