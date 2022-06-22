@@ -1,11 +1,13 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-
-import Navbar from './componentes/Navbar';
 import { BrowserRouter as Router, Routes,Route } from 'react-router-dom'
 import Home from './pages/Home/Home';
 import Blog from './pages/blog/Blog';
 import Contact from './pages/contacto/Contact';
+import Footer from './componentes/Footer';
+import Navbar from './componentes/Navbar';
+
+
 
 function App() {
   return (
@@ -13,10 +15,11 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Home />}></Route>
-        <Route path='/blog' element={<Blog/>}></Route> 
-        <Route path='/contact' element={<Contact/>}></Route> 
+        <Route path='/' element={<Home />}/>
+        <Route path='/blog' element={<Blog />}/>
+        <Route path='/contacto' element={<Contact />}/>
       </Routes>
+      <Footer/>
     </Router>
   );
 }

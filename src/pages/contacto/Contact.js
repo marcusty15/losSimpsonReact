@@ -27,7 +27,7 @@ const Contact = () => {
           id="exampleFormControlTextarea1"
           rows="3"
         ></textarea>
-        <button type="button" class="btn btn-outline-secondary">Enviar</button>
+        <button type="button" className="btn btn-outline-secondary">Enviar</button>
       </div>
     </div>
     </div>
